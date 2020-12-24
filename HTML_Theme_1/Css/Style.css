@@ -9,3 +9,45 @@
 		width: 100vw;
 		overflow: auto;
 	}
+	.head{
+		background: rgb(30, 54, 88);
+		height: 10vh;
+		position: absolute;
+		width: 98vw;
+		margin: 1vw;
+		color: 	rgb(255, 255, 255);
+		padding: 10px;
+		box-shadow: 2px 2px 2px rgb(108, 212, 215);
+		border-radius: 10px;
+		font-size: 22px;
+		text-align: center;
+		line-height: 8vh;
+	}
+
+	.Red_card{
+		position: absolute;
+		top:15vh;
+		left: 15vw;
+		display: inline-block;
+		background-color: rgb(244, 119, 97);
+		height: 10vw;
+		width: 10vw;
+	}
+		.Sky_Blue_card{
+		position: absolute;
+		top:15vh;
+		left: 30vw;
+		display: inline-block;
+		background-color: 	rgb(108, 212, 215);
+		height: 10vw;
+		width: 10vw;
+	}
+			.Light_Gray_card{
+		position: absolute;
+		top:15vh;
+		left: 45vw;
+		display: inline-block;
+		background-color: rgb(202, 215, 212);
+		height: 10vw;
+		width: 10vw;
+	}
